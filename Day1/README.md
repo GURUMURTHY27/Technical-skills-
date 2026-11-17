@@ -1,2 +1,1 @@
-# Technical-skills-
-Day 1
+this is the first day at JAVA technical skills session.
